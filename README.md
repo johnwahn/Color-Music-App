@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The Spotify Token and Audio Player API codes are referenced from https://github.com/WebDevSimplified/spotify-clone
+
 ## Available Scripts
 
 In the project directory, you can run:
